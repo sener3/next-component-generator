@@ -1,6 +1,6 @@
 ## Getting Started
 
-After you clone the repo, you should install the dependecies:
+After you clone the repo, you should install the dependencies:
 
 ```bash
 yarn
@@ -10,7 +10,7 @@ yarn
 
 To generate a new component template, follow these steps:
 
-1. Run the [yarn generate-component] command, followed by the name of the component you want to create. For example, to create a "Button" component:
+1. Run the `yarn generate-component` command, followed by the name of the component you want to create. For example, to create a "Button" component:
 
 ```bash
 yarn generate-component Button
